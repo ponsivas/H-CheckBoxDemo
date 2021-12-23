@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckBoxDemo</string>
+    <string name="CREATOR">App by Dr. P. Sivaram</string>
+    <string name="CBD">CheckBox Demonstration</string>
+    <string name="cse">CSE</string>
+    <string name="ece">ECE</string>
+    <string name="eee">EEE</string>
+    <string name="Check">Expand the Terms</string>
+</resources>
